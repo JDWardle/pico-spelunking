@@ -1,6 +1,6 @@
 # Pico Spelunking
 
-Some of the code is based off of examples provided from SunFounder [here](https://docs.sunfounder.com/projects/thales-kit/en/latest/Hello,%20Breadboard!.html)
+Some of the code is based off of examples provided from SunFounder [here](https://docs.sunfounder.com/projects/thales-kit/en/latest/)
 but converted to a C equivalant.
 
 ## Building
